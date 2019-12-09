@@ -25,7 +25,7 @@ public class UserController {
     private Logger logger = Logger.getLogger(UserController.class);
 
     /**
-     * 
+     * 查询用户信息
      * @param userid
      * @return
      */
