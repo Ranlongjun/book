@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.broadtech.common:bdv_common:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/broadtech/common/bdv_common/0.0.1-SNAPSHOT/bdv_common-0.0.1-20190918.090735-66.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/broadtech/common/bdv_common/0.0.1-SNAPSHOT/bdv_common-0.0.1-20190918.090735-66-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/broadtech/common/bdv_common/0.0.1-SNAPSHOT/bdv_common-0.0.1-20190918.090735-66-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

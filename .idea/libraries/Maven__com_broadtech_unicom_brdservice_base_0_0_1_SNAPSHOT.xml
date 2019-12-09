@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.broadtech.unicom:brdservice-base:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/broadtech/unicom/brdservice-base/0.0.1-SNAPSHOT/brdservice-base-0.0.1-20190908.170146-17.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/broadtech/unicom/brdservice-base/0.0.1-SNAPSHOT/brdservice-base-0.0.1-20190908.170146-17-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/broadtech/unicom/brdservice-base/0.0.1-SNAPSHOT/brdservice-base-0.0.1-20190908.170146-17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
